@@ -1,0 +1,2 @@
+user = "Boa"
+return user
