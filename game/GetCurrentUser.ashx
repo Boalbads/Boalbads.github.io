@@ -1,2 +1,0 @@
-user = "Boa"
-return user
