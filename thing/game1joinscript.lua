@@ -1,5 +1,9 @@
 local plrid = math.random(10,100000) -- You can change this to any userID you want.
 local GuestID = math.random(100,9999)
+local GuestID = math.random(100,9999)
+local GuestID = math.random(100,9999)
+local GuestID = math.random(100,9999)
+local GuestID = math.random(100,9999)
 local plrname = "Guest "..GuestID -- You can change this to anything you want. e.g. "Bob"
 
 local Visit = game:service("Visit")
