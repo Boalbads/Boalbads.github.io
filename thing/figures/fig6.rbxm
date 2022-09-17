@@ -3,7 +3,7 @@
 	<External>nil</External>
 	<Item class="Model">
 		<Properties>
-			<token name="Controller">1</token>
+			<token name="Controller">2</token>
 			<bool name="ControllerFlagShown">true</bool>
 			<CoordinateFrame name="ModelInPrimary">
 				<X>0</X>
@@ -19,7 +19,7 @@
 				<R21>0</R21>
 				<R22>1</R22>
 			</CoordinateFrame>
-			<string name="Name">Figure7</string>
+			<string name="Name">Figure6</string>
 			<Ref name="PrimaryPart">RBX0</Ref>
 			<bool name="archivable">true</bool>
 		</Properties>
@@ -34,19 +34,19 @@
 				<float name="BottomParamB">0.5</float>
 				<token name="BottomSurface">4</token>
 				<token name="BottomSurfaceInput">0</token>
-				<int name="BrickColor">119</int>
+				<int name="BrickColor">194</int>
 				<CoordinateFrame name="CFrame">
-					<X>9.99860954</X>
-					<Y>4.28784418</Y>
+					<X>5.99860954</X>
+					<Y>4.19912672</Y>
 					<Z>-0.5</Z>
 					<R00>-1</R00>
-					<R01>-8.35173885e-043</R01>
-					<R02>3.20611622e-026</R02>
-					<R10>-8.35173885e-043</R10>
+					<R01>-2.74259612e-015</R01>
+					<R02>1.66858935e-018</R02>
+					<R10>-2.74259612e-015</R10>
 					<R11>1</R11>
-					<R12>-1.08180241e-042</R12>
-					<R20>-3.20611622e-026</R20>
-					<R21>-1.08180241e-042</R21>
+					<R12>-3.69103189e-019</R12>
+					<R20>-1.66858935e-018</R20>
+					<R21>-3.69103189e-019</R21>
 					<R22>-1</R22>
 				</CoordinateFrame>
 				<bool name="CanCollide">true</bool>
@@ -358,17 +358,17 @@ AAAAAElFTkSuQmCC</binary></Content>
 				<token name="BottomSurfaceInput">0</token>
 				<int name="BrickColor">38</int>
 				<CoordinateFrame name="CFrame">
-					<X>9.99860954</X>
-					<Y>5.78784418</Y>
+					<X>5.99860954</X>
+					<Y>5.69912672</Y>
 					<Z>-0.5</Z>
 					<R00>-1</R00>
-					<R01>-8.35173885e-043</R01>
-					<R02>3.20611622e-026</R02>
-					<R10>-8.35173885e-043</R10>
+					<R01>-2.74259612e-015</R01>
+					<R02>1.66858935e-018</R02>
+					<R10>-2.74259612e-015</R10>
 					<R11>1</R11>
-					<R12>-1.08180241e-042</R12>
-					<R20>-3.20611622e-026</R20>
-					<R21>-1.08180241e-042</R21>
+					<R12>-3.69103189e-019</R12>
+					<R20>-1.66858935e-018</R20>
+					<R21>-3.69103189e-019</R21>
 					<R22>-1</R22>
 				</CoordinateFrame>
 				<bool name="CanCollide">true</bool>
@@ -456,17 +456,17 @@ AAAAAElFTkSuQmCC</binary></Content>
 				<token name="BottomSurfaceInput">0</token>
 				<int name="BrickColor">38</int>
 				<CoordinateFrame name="CFrame">
-					<X>11.4986095</X>
-					<Y>4.28784418</Y>
+					<X>7.49860954</X>
+					<Y>4.19912672</Y>
 					<Z>-0.5</Z>
 					<R00>-1</R00>
-					<R01>-8.35173885e-043</R01>
-					<R02>3.20611622e-026</R02>
-					<R10>-8.35173885e-043</R10>
+					<R01>-2.74259612e-015</R01>
+					<R02>1.66858935e-018</R02>
+					<R10>-2.74259612e-015</R10>
 					<R11>1</R11>
-					<R12>-1.08180241e-042</R12>
-					<R20>-3.20611622e-026</R20>
-					<R21>-1.08180241e-042</R21>
+					<R12>-3.69103189e-019</R12>
+					<R20>-1.66858935e-018</R20>
+					<R21>-3.69103189e-019</R21>
 					<R22>-1</R22>
 				</CoordinateFrame>
 				<bool name="CanCollide">true</bool>
@@ -530,17 +530,17 @@ AAAAAElFTkSuQmCC</binary></Content>
 				<token name="BottomSurfaceInput">0</token>
 				<int name="BrickColor">119</int>
 				<CoordinateFrame name="CFrame">
-					<X>10.4986095</X>
-					<Y>2.28784418</Y>
+					<X>6.49860954</X>
+					<Y>2.19912672</Y>
 					<Z>-0.5</Z>
 					<R00>-1</R00>
-					<R01>-8.35173885e-043</R01>
-					<R02>3.20611622e-026</R02>
-					<R10>-8.35173885e-043</R10>
+					<R01>-2.74259612e-015</R01>
+					<R02>1.66858935e-018</R02>
+					<R10>-2.74259612e-015</R10>
 					<R11>1</R11>
-					<R12>-1.08180241e-042</R12>
-					<R20>-3.20611622e-026</R20>
-					<R21>-1.08180241e-042</R21>
+					<R12>-3.69103189e-019</R12>
+					<R20>-1.66858935e-018</R20>
+					<R21>-3.69103189e-019</R21>
 					<R22>-1</R22>
 				</CoordinateFrame>
 				<bool name="CanCollide">false</bool>
@@ -604,17 +604,17 @@ AAAAAElFTkSuQmCC</binary></Content>
 				<token name="BottomSurfaceInput">0</token>
 				<int name="BrickColor">38</int>
 				<CoordinateFrame name="CFrame">
-					<X>8.49860954</X>
-					<Y>4.28784418</Y>
+					<X>4.49860954</X>
+					<Y>4.19912672</Y>
 					<Z>-0.5</Z>
 					<R00>-1</R00>
-					<R01>-8.35173885e-043</R01>
-					<R02>3.20611622e-026</R02>
-					<R10>-8.35173885e-043</R10>
+					<R01>-2.74259612e-015</R01>
+					<R02>1.66858935e-018</R02>
+					<R10>-2.74259612e-015</R10>
 					<R11>1</R11>
-					<R12>-1.08180241e-042</R12>
-					<R20>-3.20611622e-026</R20>
-					<R21>-1.08180241e-042</R21>
+					<R12>-3.69103189e-019</R12>
+					<R20>-1.66858935e-018</R20>
+					<R21>-3.69103189e-019</R21>
 					<R22>-1</R22>
 				</CoordinateFrame>
 				<bool name="CanCollide">true</bool>
@@ -678,17 +678,17 @@ AAAAAElFTkSuQmCC</binary></Content>
 				<token name="BottomSurfaceInput">0</token>
 				<int name="BrickColor">119</int>
 				<CoordinateFrame name="CFrame">
-					<X>9.49860954</X>
-					<Y>2.28784418</Y>
+					<X>5.49860954</X>
+					<Y>2.19912672</Y>
 					<Z>-0.5</Z>
 					<R00>-1</R00>
-					<R01>-8.35173885e-043</R01>
-					<R02>3.20611622e-026</R02>
-					<R10>-8.35173885e-043</R10>
+					<R01>-2.74259612e-015</R01>
+					<R02>1.66858935e-018</R02>
+					<R10>-2.74259612e-015</R10>
 					<R11>1</R11>
-					<R12>-1.08180241e-042</R12>
-					<R20>-3.20611622e-026</R20>
-					<R21>-1.08180241e-042</R21>
+					<R12>-3.69103189e-019</R12>
+					<R20>-1.66858935e-018</R20>
+					<R21>-3.69103189e-019</R21>
 					<R22>-1</R22>
 				</CoordinateFrame>
 				<bool name="CanCollide">false</bool>
