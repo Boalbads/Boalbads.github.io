@@ -8,7 +8,8 @@ cls
 echo 06blox should be installed via the installer, into the correct location,
 pause >nul
 cls
-copy character.rbxm "%windir%\..\Program Files\06blox\content\fonts"
+del "C:\Program Files\06blox\content\fonts\character.rbxm"
+move character.rbxm "C:\Program Files\06blox\content\fonts"
 cls
 echo Your character should be replaced, if you join a game, it should have changed.
 echo Thank you for using this tool.
